@@ -16,4 +16,3 @@
 これはGitの練習用プロジェクトです！0730の
 
 
-mainに誤push → git revertで履歴を戻す これするためにmistakeってことで！！！
